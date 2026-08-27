@@ -6,4 +6,6 @@ This python code runs on your laptop by letting you choose a file, then placing 
 2. PYAUTOGUI LIBRARY
 And with that, run this code and watch the magic happen
 
+NOTE: This is not limited to CSS files. 
+
 Please use responsibly 
