@@ -1,2 +1,9 @@
 # Auto-typer
 Ever wanted to type without typing, this is for you
+This python code runs on your laptop by letting you choose a file, then placing your cursor at where you want to type in 10 seconds ( you can change that ) then moving the slider to how many characters per second ( you can change the min and max values of the slider ) 
+**REQUIREMENTS**
+1. PYTHON
+2. PYAUTOGUI LIBRARY
+And with that, run this code and watch the magic happen
+
+Please use responsibly 
